@@ -10,3 +10,5 @@ Emulates the classic sos flasher
 5. LED
 
 
+## Design
+<img src="design.png" height="600">
