@@ -3,7 +3,7 @@
  */
 
  
-const short ledPin = 8; // pin to use for output
+const short ledPin = 13; // pin to use for output
 
 void setup() {
   pinMode(ledPin, OUTPUT);  // initialize the pin
